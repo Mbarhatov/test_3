@@ -1,12 +1,12 @@
 # Проект крестики-нолики.
 
 ## Оглавление
-[1. Оглавление проекта](https://github.com/Mbarhatov/test_3/README.md#Описание-продукта)
-[2. Какой кейс решаем?](https://github.com/Mbarhatov/test_3/README.md#Какой-кейс-решаем)
-[3. Краткая информации о данных](https://github.com/Mbarhatov/test_3/README.md#Краткая-информации-о-данных)
-[4. Этапы работты над проектами](https://github.com/Mbarhatov/test_3/README.md#Этапы-работты-над-проектами)
-[5. Результат](https://github.com/Mbarhatov/test_3/README.md#Результат)
-[6. Выводы](https://github.com/Mbarhatov/test_3/README.md#Выводы)
+[1. Оглавление проекта](https://github.com/Mbarhatov/blob/main/test_3/README.md#Описание-продукта)
+[2. Какой кейс решаем?](https://github.com/Mbarhatov/blob/main/test_3/README.md#Какой-кейс-решаем)
+[3. Краткая информации о данных](https://github.com/Mbarhatov/blob/main/test_3/README.md#Краткая-информации-о-данных)
+[4. Этапы работты над проектами](https://github.com/Mbarhatov/blob/main/test_3/README.md#Этапы-работты-над-проектами)
+[5. Результат](https://github.com/Mbarhatov/blob/main/test_3/README.md#Результат)
+[6. Выводы](https://github.com/Mbarhatov/blob/main/test_3/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток 
@@ -32,7 +32,7 @@
 - Загадываем число от 1 до 100
 - Игра запускается 1000 раз
 
-:arrow_up:[к оглавлению](https://github.com/Mbarhatov/test_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mbarhatov/blob/main/test_3/README.md#Оглавление)
 
 
 ### Этапы работы над проектом 
@@ -41,15 +41,15 @@
 - Код соответствует стандартам PEP8
 - Код воспроизводим
 
-:arrow_up:[к оглавлению](https://github.com/Mbarhatov/test_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mbarhatov/blob/main/test_3/README.md#Оглавление)
 
 ### Результаты: 
 С помощью бинарного алгаритма отгадываем число за минимальное число попыток
 
-:arrow_up:[к оглавлению](https://github.com/Mbarhatov/test_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mbarhatov/blob/main/test_3/README.md#Оглавление)
 
 
 ### Выводы: 
 Научился пользоваться инструментами, реализовал проект который находит число за минимально колличество попыток
 
-:arrow_up:[к оглавлению](https://github.com/Mbarhatov/test_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mbarhatov/blob/main/test_3/README.md#Оглавление)
